@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<title>Register For An Account | PACKT Books</title>
+		<script>
+			dataLayer = [];
+		</script>
+		<script type="text/javascript">
+			var GRANIFY_SITE_ID = 1318;(function(e,t,n){var r,i,s,o,u;u=false;try{o=new RegExp("(?:^|\\W)_gr_test_url=([^;]*)");s=document.cookie.match(o);if(s){if(s[1]==="1")u=true}else{r=Math.random();if(r>.95)u=true;i=new Date(+(new Date)+1e3*60*60*24*2);document.cookie="_gr_test_url="+ +u+";expires="+i.toGMTString()+";path=/"}}catch(a){}if(u)e.replace("javascript.js","javascript.next.js");try{o=new RegExp("(?:^|\\W)_gr_ep=([^;]*)");s=document.cookie.match(o);if(!s){document.cookie="_gr_ep_sent=;expires=Thu, 01-Jan-1970 00:00:01 GMT;path=/";document.cookie="_gr_er_sent=;expires=Thu, 01-Jan-1970 00:00:01 GMT;path=/";if(!window.location.origin){if(window.location.port)port=":"+window.location.port;else port="";window.location.origin=window.location.protocol+"//"+window.location.hostname+port}path=window.location.toString().replace(window.location.origin,"");referrer=document.referrer;i=new Date(+(new Date)+1e3*60*30);document.cookie="_gr_ep="+path+";expires="+i.toGMTString()+";path=/";document.cookie="_gr_er="+referrer+";expires="+i.toGMTString()+";path=/"}}catch(a){}a=new Date;a=""+a.getUTCFullYear()+(a.getUTCMonth()+1)+a.getUTCDate();e=e+"?id="+t+"&v="+a;window.Granify=n;n._stack=[];n.init=function(e,t,r){function i(e,t){e[t]=function(){Granify._stack.push([t].concat(Array.prototype.slice.call(arguments,0)))}}var s=n;h=["on","identify","addTag","trackPageView","trackCart","trackOrder"];for(a=0;a<h.length;a++)i(s,h[a])};n.init();var f,l,c,p=document.createElement("iframe");p.src="javascript:false";p.title="";p.role="presentation";(p.frameElement||p).style.cssText="width: 0 !important; height: 0 !important; border: 0 !important; overflow: hidden !important; position: absolute !important; top: -1000px !important; left: -1000px !important;";c=document.getElementsByTagName("script");c=c[c.length-1];c.parentNode.insertBefore(p,c);try{l=p.contentWindow.document}catch(a){f=document.domain;p.src="javascript:var d=document.open();d.domain='"+f+"';void(0);";l=p.contentWindow.document}l.open()._l=function(){var t=this.createElement("script");if(f)this.domain=f;t.id="js-iframe-async";t.src=e;this.body.appendChild(t)};l.write('<body onload="document._l();">');l.close()})("//cdn.granify.com/assets/javascript.js",GRANIFY_SITE_ID,[])
+		</script>
+
+				<script type="text/javascript">
+			Granify.trackPageView({
+			  page_type: "other"
+			});
+		</script>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=" async="async" defer="defer"></script>
+<link rel="shortcut icon" href="//d1ldz4te4covpm.cloudfront.net/misc/favicon.ico" type="image/x-icon" />
+<meta name="description" content="Register for an account with Packt: helping the world put software to work in new ways. Don&#039;t forget to sign up for our Deal of the Day!" />
+<meta name="revisit-after" content="1 day" />
+		<link rel="canonical" href="www.packtpub.com/register" />
+		
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@packtpub" />
+        <meta name="twitter:title" content="Register For An Account | PACKT Books" />
+        <meta name="twitter:description" content="" />
+                
+                <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta id="viewport" name="viewport" content="width=320, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+        <!-- <link href="//fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">-->
+         <link href="/sites/all/themes/packt_v4/fonts/ubuntu.css" rel="stylesheet" type="text/css">
+        <!--[if lt IE 10]>
+        <link href="/sites/all/themes/packt_v4/css/core/packtpub_ie.css" rel="stylesheet" type="text/css">
+        <![endif]-->
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/1465979803a1dda1fa/88193022b61633465ae9b864eeae61e3.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/1465979803a1dda1fa/6e295a6eb8f64cef4e07d9b1f02d46e8.css" />
+  
+        <script type="text/javascript" src="/sites/default/files/js/14659798030f2869b0/a3788c8c64fd65c470e23e7534c3ebc8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "\u002F", "dhtmlMenu": [ "doubleclick", "clone" ] });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var RecaptchaOptions = { "theme": "red", "lang": "en" };
+//--><!]]>
+</script>
+        <script type="text/javascript">
+            var Packt = Packt || {}; Packt.user = {"uid":0,"name":"","mail":"customer-0@packtpub.com","sid":"lssbejo7k00pgd6quc4ivkb6u4","cart_id":0,"country_code":"GB","selected_currency":"GBP","currency":"GBP","currency_symbol":"\u00a3"};
+        </script>
+        <link rel="alternate" type="application/rss+xml" href="/rss.xml" title="Packt Publishing News" >
+        <script>
+            (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,"script","//www.google-analytics.com/analytics.js","ga");
+            ga("create", "UA-284627-1", "packtpub.com", {"siteSpeedSampleRate": 100});
+            ga("require", "displayfeatures");
+            ga('require', 'ec');
+            ga("send", "pageview");
+        </script>
+    </head>
+    
+    <body id="ppv4" class="with-logo">
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NJWZFW"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NJWZFW');Packt.dataLayer.init();</script>
+
+        <div id="page" class="" checkout="">
+            <div id="page-header">
+                			<div id="account-bar" class="cf">
+				<div class="section-inner">
+					<div id="account-bar-status" class="cf">
+						<div id="account-bar-currency-selector">
+							<form accept-charset="UTF-8" method="post" id="packt-currency-select-form" class="float-left">
+								<div class="form-item" id="edit-currency-wrapper">
+									<select name="currency" class="form-select packt-currency-select-box selectBox" id="edit-currency" style="display:none">
+										<option value="GBP" >GBP &#163;</option>
+										<option value="USD" >US &#36;</option>
+										<option value="EUR" >EUR &#8364;</option>
+										<option value="AUD" >AU &#36;</option>
+									</select>
+								</div>
+								<input type="submit" name="op" value="" style="display: none;" class="form-submit">			
+								<input type="hidden" name="form_id" id="edit-packt-currency-select" value="packt_currency_select_form">
+							</form>
+						</div>				
+						<div class="account-bar-divider float-left">|</div>		
+						<div id="account-bar-status-security"></div>
+						<noscript>
+							<div id="account-bar-login-register-ns">
+								<a href="/account">My Account</a>
+							</div>
+						</noscript>
+						<div id="account-bar-login-register">
+							<a href="#" class="login-popup"><div class="float-left">Log in</div></a>
+							<div class="account-bar-divider float-left">|</div>	
+							<a href="/register"><div class="float-left">Register</div></a>
+						</div>
+						
+						<div id="account-bar-logged-in">
+							<a href="/account">
+								<div class="float-left"><strong>My Account</strong></div>
+							</a>
+							<div class="account-bar-divider float-left">|</div>	
+							<a href="/logout"><div class="float-left">Sign out</div></a>
+						</div>
+					</div>
+					<div id="account-bar-form">
+						<div id="account-bar-form-login" class="cf">
+							<div class="account-bar-form-left">
+								<h4>Log in to your account</h4>
+								<form  accept-charset="UTF-8" method="post" id="packt-user-login-form">
+<div><div id="login-form" class="cf">
+	<div id="login-form-email">
+		<div class="form-item" id="email-wrapper">
+ <input type="text" maxlength="128" name="email" id="email" size="24" value="" placeholder="E-mail address" class="form-text required" />
+</div>
+	</div>
+	<div id="login-form-pass">
+		<div class="form-item" id="password-wrapper">
+ <input type="password" name="password" id="password"  maxlength="128"  size="24"  placeholder="Password" class="form-text required" />
+</div>
+	</div>
+	<div id="login-form-submit">
+		<input type="submit" name="op" id="edit-submit-1" value="Login"  class=" form-submit" />
+	</div>
+	<br />
+</div>
+<a href="https://www.packtpub.com/account/password">Forgotten your password?</a>
+
+
+
+<input type="hidden" name="form_build_id" id="form-bd43541663b03ef02b5dc834e2188776" value="form-bd43541663b03ef02b5dc834e2188776"  />
+
+<input type="hidden" name="form_id" id="edit-packt-user-login-form" value="packt_user_login_form"  />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></form>
+							</div>
+							<div class="account-bar-form-right">
+								<h4>Not yet a member?</h4>
+								<p>Register for an account and access leading-edge content on emerging technologies.</p>
+								<p><a class="account-bar-toggle register" href="/register">Register now</a></p>
+							</div>
+						</div>						
+						<div id="account-bar-form-close"><a href="#">Close</a></div>
+					</div>
+				</div>
+			</div>
+                						<div id="menu-bar">
+				<div class="section-inner cf">
+					<div id="menuIcon"></div>
+					<div id="menu-links" class="">
+						<a href="/">
+							<div class="menu-item-tab">
+								<div class="menu-item-text dummy" id="menu-packt-logo">
+									<span class="alt">Packt Logo</span>
+								</div>
+							</div>
+						</a>
+													<a href="/all">
+								<div class="menu-item-tab">
+									<div class="menu-item-text" id="menu-books">
+										<span class="menu-text">Books & Videos</span>
+									</div>
+								</div>
+							</a>
+							<a href="/tech">
+								<div class="menu-item-tab">
+									<div class="menu-item-text" id="menu-tech">
+										<span class="menu-text">Tech</span>
+									</div>
+								</div>
+							</a>
+							<a href="/books/info/packt/about">						
+								<div class="menu-item-tab">
+									<div class="menu-item-text" id="menu-packt">
+										<span class="menu-text">Packt</span>
+									</div>
+								</div>
+							</a>
+							<a href="/books/content/support">						
+								<div class="menu-item-tab">
+									<div class="menu-item-text" id="menu-support">
+										<span class="menu-text">Support</span>
+									</div>
+								</div>
+							</a>
+
+                            <a id='menu-packtlib-href' href="/packtlib">
+                                <div class="menu-item-tab menu-item-tab pl-tab">
+                                    <div class="menu-item-text" id="menu-packtlib">
+                                        <span class="menu-text pl">
+                                            <img id="pl-img" src="//dz13w8afd47il.cloudfront.net/sites/all/themes/packt_v4/images/packtlib-logo-dark.png" />
+                                        </span>
+
+                                        <span class="menu-text mob-pl">
+                                            <img id="pl-img" src="//dz13w8afd47il.cloudfront.net/sites/all/themes/packt_v4/images/packtlib-logo-light.png" />
+                                        </span>
+                                    </div>
+                                </div>
+                            </a>
+											</div>
+					<div id="menu-icons" class="">
+													<a href="#">
+								<div class="menu-item-tab">
+									<div class="menu-item-icon" id="menu-search">
+										<span class="alt">Search</span>
+									</div>
+								</div>
+							</a>
+							<a href="/collection">
+								<div class="menu-item-tab">
+									<div class="menu-item-icon dummy" id="menu-collection">
+										<span class="alt">My Collection</span>
+									</div>
+								</div>
+							</a>
+												<a href="https://www.packtpub.com/cart/checkout">
+							<div class="menu-item-tab last">
+								<div class="menu-item-icon" id="menu-cart">
+									<div id="cart-icon-count" class="cart-icon-count"></div>
+									<span class="alt">Cart</span>
+								</div>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+			
+			<div id="menu-bar-popup" class="cf">	
+				<div id="menu-bar-popup-inner" class="cf"></div>	
+				<div class="section-inner cf">	
+
+											<div class="menu-bar-popup-menu threecol cf" id="menu-books-popup">
+							<div class="menu-bar-popup-section-left threecol">
+								<div class="menu-bar-popup-section-left-inner cf">
+									<p class="menu-bar-popup-title">Book & Video Categories</p>
+									<div id="books-menu">
+										<div class="cf">
+											<div class='books-menu-column categories '><div class='inner'><p><a href="/web-development">Web Development</a></p><p><a href="/big-data-and-business-intelligence">Big Data & Business Intelligence</a></p><p><a href="/application-development">Application Development</a></p><p><a href="/virtualization-and-cloud">Virtualization & Cloud</a></p></div></div><div class='books-menu-column categories '><div class='inner'><p><a href="/game-development">Game Development</a></p><p><a href="/networking-and-servers">Networking & Servers</a></p><p><a href="/hardware-and-creative">Hardware & Creative</a></p><p><a href="/business">Business</a></p></div></div><div class='books-menu-column categories last'><div class='inner'><p><a href="/all">All Books</a></p><p><a href="/video">All Videos</a></p><p><a href="/latest-releases">Latest Releases</a></p></div></div>										</div>
+								</div>
+							</div>
+						</div>
+						<div class="menu-bar-popup-section-right threecol">
+															<div class="menu-bar-popup-section-right-inner cf">
+									<div id="deal-of-the-day-banner" class="cf">
+										<div id="menu-bar-dotd-preview-thumb">
+											<a href="/books/deal-of-the-day">
+												<img src="//dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/featured_book_block/6421cov__0.jpg" alt="Practical Linux Security Cookbook" title="" width="150" height="185" class="lazyload-disabled imagecache imagecache-featured_book_block"/>												<div class="menu-bar-dotd-percentage">
+													<div class="menu-bar-dotd-percentage-text">
+														50<sup class="dotd-sup">%</sup><div class="dotd-sub">off</div>
+													</div>
+												</div>
+											</a>
+										</div>
+										<div id="menu-bar-dotd-preview-text">
+											<p class="menu-bar-popup-title"><a href="/books/deal-of-the-day">Deal of the Day</a></p>
+											<p>Secure your Linux machines and keep them secured with the help of exciting recipes</p>
+											
+																																		</div>
+											<div class="cf deal-of-the-day-in-header">
+												<div class="dots-main-book-price float-left">
+													<div class="book-top-pricing-main-price">
+														<div class="book-top-pricing-main-ebook-price  ">£13.80</div>
+													</div>
+                                                    <div class="dotd-rrp-price">
+                                                        RRP £27.58                                                    </div>
+												</div>
+
+												<form action="/add_to_cart/24949"  accept-charset="UTF-8" method="post" id="packt-libraries-add-to-cart-form" class="packt-libraries-add-to-cart-form">
+<div>
+<div class="book-top-addtocart-inner">	
+	<div class="book-top-addtocart-logo"></div>
+	<div class="book-top-addtocart-separator"></div>
+	
+	<input type="submit" name="submit-24949" id="submit-24949" value="Add to Cart"  class=" form-submit" />
+	<input type="hidden" name="nids" id="nids" value="24949"  />
+
+<input type="hidden" name="qtys" id="qtys" value="1"  />
+
+<input type="hidden" name="upsell" id="edit-upsell" value="1"  />
+
+
+
+
+
+
+<input type="hidden" name="form_build_id" id="form-9c6ccb9aac9907a62a4e48994af236cc" value="form-9c6ccb9aac9907a62a4e48994af236cc"  />
+
+<input type="hidden" name="form_id" id="edit-packt-libraries-add-to-cart-form" value="packt_libraries_add_to_cart_form"  />
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+</div></form>
+											</div>
+										</div>
+										<div class="cf newsletter-signup-form" newsletter_id=280>
+											<div class="dotd-signup-text"><strong>Sign up here to get these deals straight to your inbox</strong></div> 
+											<form  accept-charset="UTF-8" method="post" id="packt-v3-subscribtion-dotd-form">
+<div><div class="form-item">
+ 
+</div>
+<div class="form-item" id="edit-mail-wrapper">
+ <input type="text" maxlength="128" name="mail" id="edit-mail" size="60" value="" placeholder="Enter your email address" class="form-text" />
+</div>
+<input type="hidden" name="newsletter_id" id="edit-newsletter-id" value=""  />
+<input type="submit" name="op" id="edit-submit-3" value="Submit"  class=" form-submit" />
+<input type="hidden" name="form_build_id" id="form-75867c6344fe2d57660e10a20d74d503" value="form-75867c6344fe2d57660e10a20d74d503"  />
+<input type="hidden" name="form_id" id="edit-packt-v3-subscribtion-dotd-form" value="packt_v3_subscribtion_dotd_form"  />
+
+</div></form>
+										</div>
+									</div>
+															</div>
+						</div>
+
+						<div class="menu-bar-popup-menu fourcol cf" id="menu-tech-popup">
+							<div class="menu-bar-popup-section-left fourcol">
+								<div class="menu-bar-popup-section-left-inner cf">
+									<p class="menu-bar-popup-title">Tech</p>
+									<div class="packt-menu cf">	
+										<div class="cf">
+											<div class='books-menu-column categories '><div class='inner'>													<p><a href="/tech/android">Android</a></p>
+
+																									<p><a href="/tech/angularjs">AngularJS</a></p>
+
+																									<p><a href="/tech/arduino">Arduino</a></p>
+
+																									<p><a href="/tech/blender">Blender</a></p>
+
+																									<p><a href="/tech/bootstrap">Bootstrap</a></p>
+
+																									<p><a href="/tech/data%20analysis">Data Analysis</a></p>
+
+																									<p><a href="/tech/django">Django</a></p>
+
+																									<p><a href="/tech/docker">Docker</a></p>
+
+																									<p><a href="/tech/drupal">Drupal</a></p>
+
+												</div></div><div class='books-menu-column categories '><div class='inner'>													<p><a href="/tech/graphics%20programming">Graphics Programming</a></p>
+
+																									<p><a href="/tech/hadoop">Hadoop</a></p>
+
+																									<p><a href="/tech/Internet%20of%20Things">Internet of Things</a></p>
+
+																									<p><a href="/tech/ios">iOS</a></p>
+
+																									<p><a href="/tech/java">Java</a></p>
+
+																									<p><a href="/tech/javascript">JavaScript</a></p>
+
+																									<p><a href="/tech/jquery">jQuery</a></p>
+
+																									<p><a href="/tech/linux">Linux</a></p>
+
+												</div></div><div class='books-menu-column categories '><div class='inner'>													<p><a href="/tech/machine%20learning">Machine Learning</a></p>
+
+																									<p><a href="/tech/opencv">OpenCV</a></p>
+
+																									<p><a href="/tech/openstack">OpenStack</a></p>
+
+																									<p><a href="/tech/oracle">Oracle</a></p>
+
+																									<p><a href="/tech/penetration%20testing">Penetration Testing</a></p>
+
+																									<p><a href="/tech/php">PHP</a></p>
+
+																									<p><a href="/tech/postgresql">PostgreSQL</a></p>
+
+																									<p><a href="/tech/python">Python</a></p>
+
+												</div></div><div class='books-menu-column categories last'><div class='inner'>													<p><a href="/tech/qlikview">QlikView</a></p>
+
+																									<p><a href="/tech/r">R</a></p>
+
+																									<p><a href="/tech/scala">Scala</a></p>
+
+																									<p><a href="/tech/spark">Spark</a></p>
+
+																									<p><a href="/tech/spring">Spring</a></p>
+
+																									<p><a href="/tech/swift">Swift</a></p>
+
+																									<p><a href="/tech/unity">Unity</a></p>
+
+																									<p><a href="/tech/wordpress">WordPress</a></p>
+
+												</div></div>										</div>
+									</div>
+								</div>
+							</div>						
+						</div>
+
+						<div class="menu-bar-popup-menu cf" id="menu-packt-popup">
+							<div class="menu-bar-popup-section-left twocol">
+								<div class="menu-bar-popup-section-left-inner cf">
+									<p class="menu-bar-popup-title">Packt Publishing</p>
+									<div class="packt-menu cf">
+										<div class="books-menu-column">
+											<div class="inner">
+												<p><a href="/books/info/packt/about">About Us</a></p>
+												<p><a href="/books/info/packt/authors">Our Authors</a></p>
+												<p><a href="/books/info/packt/trade-partners">Trade & Partners</a></p>
+											<!--<p><a href="/blog-network">Blog</a></p>
+											<p><a href="/techprimer-network">Technology Primers</a></p>-->
+										</div>
+									</div>
+									<div class="books-menu-column">
+										<div class="inner">
+											<p><a href="/books/info/packt/contact-us">Contact Us</a></p>
+											<p><a href="/books/info/packt/careers-with-packt">Careers</a></p>
+											<!--<p><a href="/article-network">Articles</a></p>-->
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>						
+						<!--<div class="menu-bar-popup-section-right twocol">
+							<div class="menu-bar-popup-section-right-inner cf">
+								<div id="menu-bar-article-preview-thumb">
+									<noscript><img src="//d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_header_article_thumb/306_Cover Image.png" alt="ECMAScript 7 - What to expect?" title="" width="240" height="114" class=" imagecache imagecache-ppv4_header_article_thumb"/></noscript><img src="/sites/default/files/blank.gif" alt="ECMAScript 7 - What to expect?" title="" width="240" height="114" data-original="//d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_header_article_thumb/306_Cover Image.png" class=" imagecache imagecache-ppv4_header_article_thumb"/>								</div>
+								<div id="menu-bar-article-preview-text">
+									<p class="menu-bar-popup-title"><a href="/books/content/ecmascript-7-what-expect">ECMAScript 7 - What to expect?</a></p>
+									<p id="menu-bar-article-one-liner"></p>
+									<p><a href="/articles">Read all our articles</a></p>
+								</div>
+							</div>
+						</div>-->
+					</div>
+
+
+					<div class="menu-bar-popup-menu cf" id="menu-support-popup">
+						<div class="menu-bar-popup-section-left twocol">
+							<div class="menu-bar-popup-section-left-inner cf">
+								<p class="menu-bar-popup-title">Support</p>
+								<div class="packt-menu cf">
+									<div class="books-menu-column">
+										<div class="inner">
+											<p><a href="/books/info/packt/faq">FAQs</a></p>
+											<p><a href="/books/info/packt/ordering">Ordering Information</a></p>
+											<p><a href="/books/info/packt/terms-and-conditions">Terms & Conditions</a></p>
+										</div>
+									</div>
+									<div class="books-menu-column">
+										<div class="inner">
+											<p><a href="/books/content/support">Code Downloads & Errata</a></p>
+											<p><a href="/books/content/errata">Submit Errata</a></p>
+										</div>
+									</div>
+								</div>
+							</div>							
+						</div>
+					</div>
+
+					<div class="menu-bar-popup-menu cf" id="menu-packtlib-popup">
+						<div class="menu-bar-popup-section-left twocol">
+							<div class="menu-bar-popup-section-left-inner cf">
+								<p class="menu-bar-popup-title">PacktLib</p>
+								<div class="packt-menu cf">
+									<div class="books-menu-column">
+										<div class="inner">
+											<p><a href="/books/subscription/packtlib">Subscribe</a></p>
+											<p><a href="/books/subscription/packtlib-business">PacktLib For Business</a></p>
+											<p><a href="/packtlib">Take me to the Library</a></p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="menu-bar-popup-menu cf" id="menu-search-popup">
+						<div class="menu-bar-popup-search-inner">
+							<form  accept-charset="UTF-8" method="post" id="packt-libraries-main-search-form">
+<div>
+<div id="menu-bar-search" class="cf">
+	<div id="menu-bar-search-title">
+		<div class="form-item">Search</div>
+	</div>
+	<div id="menu-bar-search-box">
+		<div class="form-item" id="main-search-keys-wrapper">
+ <input type="text" name="keys" id="main-search-keys" size="49" value="" placeholder="Enter your search terms..." class="form-text" />
+</div>
+	</div>
+	<div id="menu-bar-search-button">
+		<input type="submit" name="op" id="edit-submit-5" value="Search"  class=" form-submit" />
+	</div>
+	<input type="hidden" name="sort" id="edit-sort" value="0"  />
+
+<input type="hidden" name="types" id="edit-types" value="0"  />
+
+<input type="hidden" name="forthcoming" id="edit-forthcoming" value="1"  />
+
+<input type="hidden" name="available" id="edit-available" value="1"  />
+
+<input type="hidden" name="count" id="edit-count" value="20"  />
+
+
+
+
+<input type="hidden" name="form_build_id" id="form-74706a30d227cf29eca332f2800d51d1" value="form-74706a30d227cf29eca332f2800d51d1"  />
+
+<input type="hidden" name="form_id" id="edit-packt-libraries-main-search-form" value="packt_libraries_main_search_form"  />
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+</div>
+<div class="facet-search-cross facet-search-cross-autocomplete"></div>
+</div></form>
+						</div>
+					</div>
+					
+					<div class="menu-bar-popup-menu cf" id="menu-cart-popup">
+						<div class="menu-bar-popup-section-left even">
+							<div class="menu-bar-popup-section-left-inner cf">
+								<div id="menu-bar-popup-cart-preview">
+									<div id="menu-bar-popup-cart-item-preview">
+
+										<div id="menu-bar-popup-cart-item-preview-image">
+											<img src="" />
+										</div>
+										<p class="menu-bar-popup-title">Added to Cart</p>
+										<p id="menu-bar-popup-cart-item-preview-title"></p>
+										<p id="menu-bar-popup-cart-item-preview-oneliner"></p>
+										<p id="menu-bar-popup-cart-item-preview-additional">...and <span></span> more</p>
+										<p class="price"><span id="menu-bar-popup-cart-item-preview-currency"></span><span id="menu-bar-popup-cart-item-preview-price"></span></p>
+									</div>
+								</div>
+								<p id="menu-bar-popup-cart-empty-preview">
+									You don't have anything in your cart right now.
+								</p>
+							</div>
+						</div>
+						
+						<div class="menu-bar-popup-section-right even">
+							<div class="menu-bar-popup-section-right-inner cf">
+								<div id="menu-bar-popup-content">
+									<div class="cf">
+										<p id="menu-bar-popup-subtotal-title" class="menu-bar-popup-title float-left">Subtotal</p>
+										<p id="menu-bar-popup-subtotal-value" class="menu-bar-popup-title float-right price"> 0.00</p>
+										<p id="menu-bar-popup-subtotal-currency" class="menu-bar-popup-title float-right price"></p>
+									</div>
+									<p><strong>Free shipping</strong> on print orders for US, UK, Europe and selected Asian countries</p>
+									<form>
+										<a href="https://www.packtpub.com/cart/checkout" class="button-link grey">View Cart</a>
+										<span></span>
+										<a href="https://www.packtpub.com/cart/checkout/?checkout_step=payment" class="button-link">Check Out</a>
+									</form>
+								</div>
+								<div id="checkout-close" onclick="Packt.headerMenu.hideMenuPopup()"></div>
+								
+							</div>
+						</div>
+					</div>
+					<div class="menu-bar-popup-menu cf" id="menu-cart-small">
+						<div>
+							<div class="small-popup-outer float-right">
+								<div class="small-popup-tick">
+									&nbsp;
+								</div>
+								<div class="small-popup-text">
+									<strong>
+										Title added to cart
+									</strong>
+								</div>
+								<div class="small-popup-seperator">
+								</div>
+								<div class="small-popup-arrows">
+&nbsp;
+								</div>
+							</div>
+						</div>
+					</div>
+							</div>
+			<div id="menu-bar-popup-inner-bottom" class="cf"></div>
+		</div>
+            </div>
+						<div id="main-container" class="not-front not-logged-in page-register no-sidebars page-register section-register ">
+				<div id="main" class="">
+					
+											 <!-- #content -->
+					 	<div id="content">
+						 	
+					 							 			<div class="section-inner">
+					 		
+						 							 			<div id="messages-container">
+							 							 			</div>
+						 		
+
+							
+							
+							<a name="main-content" id="main-content"></a>
+							<form action="/register"  accept-charset="UTF-8" method="post" id="packt-v3-register-form">
+<div><div id="register-page">
+
+	<div id="register-page-title">
+		<h2 class="orange float-left">Register</h2>
+	</div>
+
+	<div id="register-page-form">
+		<div class="inner">
+			<h1>Create a New Account</h1>
+
+			<div id="register-form-details" class="float-left">
+				<p><strong>Your Details</strong></p>
+				<p>Create one account to manage everything you do with Packt, from your shopping preferences to your collection activity.</p>
+
+				<div class="form-elements">
+					<div class="form-item" id="edit-email-address-wrapper">
+ <label for="edit-email-address">Email Address <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="email_address" id="edit-email-address" size="60" value="" x-autocompletetype="email" class="form-text required" />
+</div>
+					<div class="form-item" id="edit-first-name-wrapper">
+ <label for="edit-first-name">First Name <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="first_name" id="edit-first-name" size="60" value="" x-autocompletetype="given-name" class="form-text required" />
+</div>
+					<div class="form-item" id="edit-last-name-wrapper">
+ <label for="edit-last-name">Last Name <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="last_name" id="edit-last-name" size="60" value="" x-autocompletetype="surname" class="form-text required" />
+</div>
+                    <div class="form-item" id="tech_preferences-wrapper">
+ <label for="tech_preferences">Tech Preferences </label>
+ <select name="tech_preferences[]" multiple="" class="form-select chosen-select" autocomplete="on" id="tech_preferences" ><option value="Adobe Captivate">Adobe Captivate</option><option value="Android Studio">Android Studio</option><option value="Ansible">Ansible</option><option value="Cassandra">Cassandra</option><option value="Infinispan">Infinispan</option><option value="MongoDB">MongoDB</option><option value="Neo4j">Neo4j</option><option value="PostgreSQL">PostgreSQL</option><option value="SQL Server 2014">SQL Server 2014</option><option value="SQL Server">SQL Server</option><option value="Akka">Akka</option><option value="AndEngine">AndEngine</option><option value="Android NDK">Android NDK</option><option value="AngularJS">AngularJS</option><option value="Apache Camel">Apache Camel</option><option value="Apache Kafka">Apache Kafka</option><option value="Spark">Spark</option><option value="Appcelerator Titanium">Appcelerator Titanium</option><option value="ArcGIS">ArcGIS</option><option value="Articulate Storyline">Articulate Storyline</option><option value="ASP.NET">ASP.NET</option><option value="Backbone.js">Backbone.js</option><option value="Boost">Boost</option><option value="Bootstrap">Bootstrap</option><option value="Ceph">Ceph</option><option value="Chef">Chef</option><option value="Cocos-2d-X">Cocos-2d-X</option><option value="Compass">Compass</option><option value="Corona">Corona</option><option value="D3.js">D3.js</option><option value="Axure RP">Axure RP</option><option value="BizTalk">BizTalk</option><option value="Blender">Blender</option><option value="Cinema 4D">Cinema 4D</option><option value="CryENGINE">CryENGINE</option><option value="Dynamics CRM">Dynamics CRM</option><option value="Dynamics AX">Dynamics AX</option><option value="Eclipse">Eclipse</option><option value="Force.com">Force.com</option><option value="Git">Git</option><option value="Hyper-V">Hyper-V</option><option value="JBoss ESB">JBoss ESB</option><option value="JIRA">JIRA</option><option value="JMeter">JMeter</option><option value="Liferay Portal">Liferay Portal</option><option value="Maya">Maya</option><option value="Minecraft">Minecraft</option><option value="Nmap">Nmap</option><option value="Office 365">Office 365</option><option value="Oracle Service Bus">Oracle Service Bus</option><option value="Pentaho">Pentaho</option><option value="PostGIS">PostGIS</option><option value="PowerCLI">PowerCLI</option><option value="Prezi">Prezi</option><option value="Proxmox">Proxmox</option><option value="QGIS">QGIS</option><option value="Qlik Sense">Qlik Sense</option><option value="QlikView">QlikView</option><option value="Qt">Qt</option><option value="RStudio">RStudio</option><option value="Salesforce CRM">Salesforce CRM</option><option value="SaltStack">SaltStack</option><option value="Sketchup">Sketchup</option><option value="Splunk">Splunk</option><option value="SPSS">SPSS</option><option value="SSAS">SSAS</option><option value="System Center">System Center</option><option value="Twilio">Twilio</option><option value="Unity">Unity</option><option value="Unreal Engine">Unreal Engine</option><option value="Visual Studio">Visual Studio</option><option value="VMware vCenter">VMware vCenter</option><option value="VMware vSphere">VMware vSphere</option><option value="Wireshark">Wireshark</option><option value="Mathematica">Mathematica</option><option value="Zabbix">Zabbix</option><option value="Manga Studio 5">Manga Studio 5</option><option value="VMware View">VMware View</option><option value="VMware ThinApp">VMware ThinApp</option><option value="VMware vRealize">VMware vRealize</option><option value="Sketchbook Pro">Sketchbook Pro</option><option value="RapidWeaver">RapidWeaver</option><option value="Apple Aperture">Apple Aperture</option><option value="eLearning">eLearning</option><option value="Operating System Guide">Operating System Guide</option><option value="Adobe">Adobe</option><option value="Alfresco">Alfresco</option><option value="Apache">Apache</option><option value="Appcelerator">Appcelerator</option><option value="Apple">Apple</option><option value="Autodesk">Autodesk</option><option value="Blender Foundation">Blender Foundation</option><option value="Citrix">Citrix</option><option value="Corona Labs">Corona Labs</option><option value="esri">esri</option><option value="Google">Google</option><option value="JBoss">JBoss</option><option value="Liferay">Liferay</option><option value="Microsoft">Microsoft</option><option value="Oracle">Oracle</option><option value="Puppet Labs">Puppet Labs</option><option value="Salesforce">Salesforce</option><option value="VMware">VMware</option><option value="Sencha">Sencha</option><option value="Mojang">Mojang</option><option value="CryTEK">CryTEK</option><option value="Django">Django</option><option value="Docker">Docker</option><option value="Drupal">Drupal</option><option value="ElasticSearch">ElasticSearch</option><option value="ExpressJS">ExpressJS</option><option value="Ext JS">Ext JS</option><option value="Apache Flume">Apache Flume</option><option value="FreeSWITCH">FreeSWITCH</option><option value="GameMaker">GameMaker</option><option value="GeoServer">GeoServer</option><option value="Google Apps Script">Google Apps Script</option><option value="Google Maps API">Google Maps API</option><option value="Gradle">Gradle</option><option value="Grunt">Grunt</option><option value="Google Guava">Google Guava</option><option value="Hadoop">Hadoop</option><option value="Hazelcast">Hazelcast</option><option value="Highcharts">Highcharts</option><option value="iPython">iPython</option><option value="Jasmine">Jasmine</option><option value="Jenkins">Jenkins</option><option value="jMonkeyEngine">jMonkeyEngine</option><option value="Joomla!">Joomla!</option><option value="jQuery">jQuery</option><option value="jQuery Mobile">jQuery Mobile</option><option value="Kali Linux">Kali Linux</option><option value="Kendo UI">Kendo UI</option><option value="Kivy">Kivy</option><option value="Laravel">Laravel</option><option value="LibGDX">LibGDX</option><option value="LLVM">LLVM</option><option value="Magento">Magento</option><option value="Metasploit">Metasploit</option><option value="Meteor">Meteor</option><option value="Mongoose">Mongoose</option><option value="Moodle">Moodle</option><option value="Nagios">Nagios</option><option value="Nginx">Nginx</option><option value="Ninject">Ninject</option><option value="Node.js">Node.js</option><option value="NServiceBus">NServiceBus</option><option value="NumPy">NumPy</option><option value="OpenCV">OpenCV</option><option value="OpenFlow">OpenFlow</option><option value="openFrameworks">openFrameworks</option><option value="OpenLayers">OpenLayers</option><option value="OpenRefine">OpenRefine</option><option value="OpenStack Neutron">OpenStack Neutron</option><option value="OpenStack">OpenStack</option><option value="OpenStack Swift">OpenStack Swift</option><option value="Oracle ADF">Oracle ADF</option><option value="Play!">Play!</option><option value="PowerShell">PowerShell</option><option value="PrimeFaces">PrimeFaces</option><option value="Puppet">Puppet</option><option value="Qt Creator">Qt Creator</option><option value="Redmine">Redmine</option><option value="ROS">ROS</option><option value="Sass">Sass</option><option value="scikit-learn">scikit-learn</option><option value="SciPy">SciPy</option><option value="Selenium">Selenium</option><option value="Sencha Touch">Sencha Touch</option><option value="SFML">SFML</option><option value="Shiny">Shiny</option><option value="soapUI">soapUI</option><option value="Socket.io">Socket.io</option><option value="Apache Solr">Apache Solr</option><option value="Spring Boot">Spring Boot</option><option value="Spring MVC">Spring MVC</option><option value="Storm">Storm</option><option value="Symfony2">Symfony2</option><option value="Three.js">Three.js</option><option value="Tkinter">Tkinter</option><option value="Apache Tomcat">Apache Tomcat</option><option value="Vaadin">Vaadin</option><option value="Vagrant">Vagrant</option><option value="VMware Horizon View">VMware Horizon View</option><option value="WebGL">WebGL</option><option value="WordPress">WordPress</option><option value="Xamarin">Xamarin</option><option value="XenServer">XenServer</option><option value="XenApp">XenApp</option><option value="XenDesktop">XenDesktop</option><option value="Yocto Project">Yocto Project</option><option value="Zend">Zend</option><option value="BackTrack">BackTrack</option><option value="Arduino">Arduino</option><option value="BeagleBone">BeagleBone</option><option value="Raspberry Pi">Raspberry Pi</option><option value="Internet of Things">Internet of Things</option><option value="Map Reduce">Map Reduce</option><option value="NoSQL">NoSQL</option><option value="OAuth">OAuth</option><option value="C">C</option><option value="C#">C#</option><option value="C++">C++</option><option value="Clojure">Clojure</option><option value="Dart">Dart</option><option value="Delphi">Delphi</option><option value="GML">GML</option><option value="Groovy">Groovy</option><option value="Haskell">Haskell</option><option value="HMTL/CSS">HMTL/CSS</option><option value="Java">Java</option><option value="JavaScript">JavaScript</option><option value="Julia">Julia</option><option value="Objective-C">Objective-C</option><option value="PHP">PHP</option><option value="PL/SQL">PL/SQL</option><option value="Python">Python</option><option value="R">R</option><option value="Scala">Scala</option><option value="Swift">Swift</option><option value="HTML/CSS">HTML/CSS</option><option value="Animation &amp; Film">Animation &amp; Film</option><option value="Infrastructure Automation">Infrastructure Automation</option><option value="Build Automation">Build Automation</option><option value="Bioinformatics">Bioinformatics</option><option value="Cloud Computing">Cloud Computing</option><option value="Cluster Computing">Cluster Computing</option><option value="Mobile Forensics">Mobile Forensics</option><option value="Computer Vision">Computer Vision</option><option value="Concurrent Programming">Concurrent Programming</option><option value="Configuration Management">Configuration Management</option><option value="CMS">CMS</option><option value="Continuous Delivery">Continuous Delivery</option><option value="Continuous Integration">Continuous Integration</option><option value="CRM">CRM</option><option value="Data Analysis">Data Analysis</option><option value="Database">Database</option><option value="Data Mining">Data Mining</option><option value="Data Persistence">Data Persistence</option><option value="Data Visualization">Data Visualization</option><option value="Dependency Injection">Dependency Injection</option><option value="Distributed Computing">Distributed Computing</option><option value="DSL">DSL</option><option value="ERP">ERP</option><option value="GIS">GIS</option><option value="Graphics Programming">Graphics Programming</option><option value="Home Automation">Home Automation</option><option value="HTTP Server">HTTP Server</option><option value="IDE">IDE</option><option value="Identity Management">Identity Management</option><option value="Image Processing">Image Processing</option><option value="Machine Learning">Machine Learning</option><option value="Mobile Application Development">Mobile Application Development</option><option value="Monitoring">Monitoring</option><option value="Network Programming">Network Programming</option><option value="Penetration Testing">Penetration Testing</option><option value="Performance Testing">Performance Testing</option><option value="Object Storage">Object Storage</option><option value="Photography">Photography</option><option value="Presenting">Presenting</option><option value="Prototyping">Prototyping</option><option value="Quantitative Finance">Quantitative Finance</option><option value="Reactive Programming">Reactive Programming</option><option value="Regular Expressions">Regular Expressions</option><option value="Robotics">Robotics</option><option value="Software Defined Networking">Software Defined Networking</option><option value="Search Server">Search Server</option><option value="JavaScript Server">JavaScript Server</option><option value="Service Bus">Service Bus</option><option value="Unit Testing">Unit Testing</option><option value="User Interface">User Interface</option><option value="Version Control">Version Control</option><option value="Virtualization">Virtualization</option><option value="WebRTC">WebRTC</option><option value="Mobile Game Development">Mobile Game Development</option><option value="Hardware Development">Hardware Development</option><option value="Web Design">Web Design</option><option value="Financial Modelling">Financial Modelling</option><option value="Programming">Programming</option><option value="3D Printing">3D Printing</option><option value="Web Application Development">Web Application Development</option><option value="Android">Android</option><option value="iOS">iOS</option><option value="Linux">Linux</option><option value="Ruby">Ruby</option><option value="Spring">Spring</option></select>
+</div>
+                    <div class="tech-preference-help-txt">
+                        Please select all the tech you are interested in...
+                    </div>
+					<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="128"  size="60"  class="form-text required" />
+</div>
+					<div class="form-item" id="edit-confirm-password-wrapper">
+ <label for="edit-confirm-password">Confirm Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="confirm_password" id="edit-confirm-password"  maxlength="128"  size="60"  class="form-text required" />
+</div>
+					<div class="captcha"><input type="hidden" name="captcha_sid" id="edit-captcha-sid" value="10961247"  />
+<input type="hidden" name="captcha_token" id="edit-captcha-token" value="b62c14b44872a90e1aa0569e67236a57"  />
+<input type="hidden" name="captcha_response" id="edit-captcha-response" value="reCAPTCHA"  />
+<div class="form-item">
+ <div class="g-recaptcha" data-sitekey="6LdhAw4TAAAAAAKma4zh7fItyYzMLBpCRhN3b79N"></div>
+	<noscript>
+  		<iframe src="https://www.google.com/recaptcha/api/noscript?k=6LdhAw4TAAAAAAKma4zh7fItyYzMLBpCRhN3b79N" height="300" width="500" frameborder="0"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>
+</div>
+</div>				</div>
+			</div>
+
+			<div id="register-form-newsletters" class="float-left">
+
+				<p><strong>Be the first to get our latest deals</strong></p>
+				<p>To change your mail preferences once you have registered, visit the 'My Account' section of this site.</p>
+
+				<div id="newsletter-option-list">
+									<div class="newsletter-option newsletter-item">
+						<div class="cf">
+							<div class="form-item" id="edit-newsletters-280-wrapper">
+ <input type="checkbox" name="newsletters[280]" id="edit-newsletters-280" value="280"  checked="checked"  class="form-checkbox" />
+</div>
+							<div class="float-left newsletter-option-text toggle-newsletter">
+								<div class="newsletter-option-text-inner">
+									<h5 class="float-left">Video Deal of the Week</h5>
+									<div class="toggle-newsletter-sign float-right">
+										+
+									</div>
+
+								</div>
+							</div>
+						</div>
+						<div class="newsletter-option-text-more toggle">
+							Deep discounts on a new set of video courses every week – plus all your essential Packt Video news and updates.						</div>
+					</div>
+														<div class="newsletter-option newsletter-item">
+						<div class="cf">
+							<div class="form-item" id="edit-newsletters-60-wrapper">
+ <input type="checkbox" name="newsletters[60]" id="edit-newsletters-60" value="60"  checked="checked"  class="form-checkbox" />
+</div>
+							<div class="float-left newsletter-option-text toggle-newsletter">
+								<div class="newsletter-option-text-inner">
+									<h5 class="float-left">Offers &amp; Alerts</h5>
+									<div class="toggle-newsletter-sign float-right">
+										+
+									</div>
+
+								</div>
+							</div>
+						</div>
+						<div class="newsletter-option-text-more toggle">
+							New releases, bespoke offers, exclusive discounts, and great free content.						</div>
+					</div>
+														<div class="newsletter-option newsletter-item">
+						<div class="cf">
+							<div class="form-item" id="edit-newsletters-281-wrapper">
+ <input type="checkbox" name="newsletters[281]" id="edit-newsletters-281" value="281"  checked="checked"  class="form-checkbox" />
+</div>
+							<div class="float-left newsletter-option-text toggle-newsletter">
+								<div class="newsletter-option-text-inner">
+									<h5 class="float-left">Deal of the Day</h5>
+									<div class="toggle-newsletter-sign float-right">
+										+
+									</div>
+
+								</div>
+							</div>
+						</div>
+						<div class="newsletter-option-text-more toggle">
+							Exclusive deals on new and bestselling eBooks, delivered straight to your inbox every day.						</div>
+					</div>
+														<div class="newsletter-option newsletter-item">
+						<div class="cf">
+							<div class="form-item" id="edit-newsletters-287-wrapper">
+ <input type="checkbox" name="newsletters[287]" id="edit-newsletters-287" value="287"  checked="checked"  class="form-checkbox" />
+</div>
+							<div class="float-left newsletter-option-text toggle-newsletter">
+								<div class="newsletter-option-text-inner">
+									<h5 class="float-left">The Create Dispatch</h5>
+									<div class="toggle-newsletter-sign float-right">
+										+
+									</div>
+
+								</div>
+							</div>
+						</div>
+						<div class="newsletter-option-text-more toggle">
+							Leading-edge free content and the latest news and updates in Game Dev and more – as well as a range of exclusive discounts and bespoke offers on our hottest titles.  						</div>
+					</div>
+														<div class="newsletter-option newsletter-item">
+						<div class="cf">
+							<div class="form-item" id="edit-newsletters-286-wrapper">
+ <input type="checkbox" name="newsletters[286]" id="edit-newsletters-286" value="286"  checked="checked"  class="form-checkbox" />
+</div>
+							<div class="float-left newsletter-option-text toggle-newsletter">
+								<div class="newsletter-option-text-inner">
+									<h5 class="float-left">The Data Dispatch</h5>
+									<div class="toggle-newsletter-sign float-right">
+										+
+									</div>
+
+								</div>
+							</div>
+						</div>
+						<div class="newsletter-option-text-more toggle">
+							Leading-edge free content and the latest news and updates in Big Data, Virtualization & Cloud, and Networking & Servers – as well as a range of exclusive discounts and bespoke offers on our hottest titles.  						</div>
+					</div>
+														<div class="newsletter-option newsletter-item">
+						<div class="cf">
+							<div class="form-item" id="edit-newsletters-289-wrapper">
+ <input type="checkbox" name="newsletters[289]" id="edit-newsletters-289" value="289"  checked="checked"  class="form-checkbox" />
+</div>
+							<div class="float-left newsletter-option-text toggle-newsletter">
+								<div class="newsletter-option-text-inner">
+									<h5 class="float-left">The Dev Dispatch</h5>
+									<div class="toggle-newsletter-sign float-right">
+										+
+									</div>
+
+								</div>
+							</div>
+						</div>
+						<div class="newsletter-option-text-more toggle">
+							Leading-edge free content and the latest news and updates in Web Dev and App Dev – as well as a range of exclusive discounts and bespoke offers on our hottest titles.						</div>
+					</div>
+													</div>
+			</div>
+
+			<div id="register-form-bottom">
+				<div id="register-terms-conditions" class="float-left">
+					<p><strong>Terms & Conditions</strong></p>
+					<p>By clicking REGISTER, you are agreeing to our <a href="books/info/packt/privacy">Policy</a> and <a href="books/info/packt/terms-and-conditions">Terms & Conditions</a></p>
+				</div>
+				<input type="submit" name="op" id="edit-register" value="Register"  class=" form-submit" />
+			</div>
+		</div>
+	</div>
+
+</div>
+<input type="hidden" name="form_build_id" id="form-e04e0bb85f11df2b0d3e7743b9217a9d" value="form-e04e0bb85f11df2b0d3e7743b9217a9d"  />
+<input type="hidden" name="form_id" id="edit-packt-v3-register-form" value="packt_v3_register_form"  />
+
+</div></form>
+					 							 			</div>
+					 								</div>
+						<!-- /#content -->
+					
+									</div>
+			</div>
+									
+						
+			<!-- #footer -->
+			<div id="footer" class="region region-footer">
+				<div class="section-inner cf">
+					<div class="footer-main-block">
+						<div class="footer-section-inner">
+														<h2>Contact Us</h2>
+							<p>Get in touch&nbsp;<a href="/books/info/packt/contact-us">here</a>&nbsp;<span style="font-family: Calibri, sans-serif; font-size: 11pt; line-height: 115%;">if you have any queries or issues.</span></p>						</div>
+					</div>
+					<div class="footer-main-block middle-footer-block">
+						<div class="footer-section-inner">
+														<h2>Help & Support</h2>
+							<p class="MsoNormal">Click&nbsp;<a href="/books/info/packt/faq">here</a>&nbsp;for FAQs, order information, T&amp;Cs, errata and code downloads.</p>						</div>
+					</div>
+					<div class="footer-main-block">
+						<div class="footer-section-inner">
+														<h2>Alerts & Offers</h2>
+							<p class="MsoNormal">Sign up to our emails for regular updates, bespoke offers, exclusive discounts and great free content.</p>							<form  accept-charset="UTF-8" method="post" id="packt-v3-subscribtion-dotd-form-1">
+<div><div class="form-item">
+ 
+</div>
+<div class="form-item" id="edit-mail-1-wrapper">
+ <input type="text" maxlength="128" name="mail" id="edit-mail-1" size="60" value="" placeholder="Enter your email address" class="form-text" />
+</div>
+<input type="hidden" name="newsletter_id" id="edit-newsletter-id-1" value=""  />
+<input type="submit" name="op" id="edit-submit-4" value="Submit"  class=" form-submit" />
+<input type="hidden" name="form_build_id" id="form-f0316c8811e08b03d85c4f61cf4852a6" value="form-f0316c8811e08b03d85c4f61cf4852a6"  />
+<input type="hidden" name="form_id" id="edit-packt-v3-subscribtion-dotd-form-1" value="packt_v3_subscribtion_dotd_form"  />
+
+</div></form>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /#footer -->
+
+			<!-- #footer-bottom -->
+			<div id="footer-bottom" class="region region-footer-bottom">
+				<div class="section-inner cf">
+					<div class="footer-bottom-block">
+						<div class="footer-bottom-block-left">
+							&copy; Packt Publishing Limited.
+							<br />
+							All Rights Reserved
+						</div>
+					</div>
+					<div class="footer-bottom-block footer-contact-us">
+						<a href="/books/info/packt/contact-us">Contact Us</a>
+					</div>
+					<div class="footer-bottom-block">
+						View our <a href="/books/info/packt/cookies">Cookie Policy</a>
+					</div>
+					<div class="footer-bottom-block">
+						Our <a href="/books/info/packt/privacy">Privacy Policy</a>
+					</div>
+					<div class="footer-bottom-block">
+						<a target="_blank" href="http://www.linkedin.com/company/packt-publishing" class="footer-social linkedin"></a>
+						<a target="_blank" href="http://twitter.com/packtpub" class="footer-social twitter"></a>
+						<a target="_blank" href="http://www.facebook.com/packtpub" class="footer-social facebook"></a>
+						<a target="_blank" href="https://plus.google.com/112328881995125817822" class="footer-social gplus"></a>
+						<a target="_blank" href="https://www.youtube.com/user/packt1000" class="footer-social youtube"></a>
+					</div>
+				</div>
+			</div>
+			<!-- /#footer-bottom -->
+			<script>
+			(function (w,i,d,g,e,t,s)
+			{w[d] = w[d]||[];t= i.createElement(g); t.async=1;t.src=e;s=i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t, s); }
+			)(window, document, '_gscq','script','//widgets.getsitecontrol.com/18511/script.js');
+			</script>
+			
+						
+						
+		</div>
+		<!-- /#page -->
+		
+		<div id="content-overlay"></div>
+		
+				
+	</body>
+</html>
