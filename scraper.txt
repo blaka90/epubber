@@ -1,0 +1,67 @@
+# -*- coding: utf-8 -*-
+from selenium import webdriver
+import getpass
+
+user = getpass.getuser()
+chrome_opts = webdriver.ChromeOptions()
+driver = webdriver.Chrome('/Users/'+user+'/Library/Application Support/Google/chromedriver', chrome_options=chrome_opts)
+
+"""
+As you can see in the Inspector, you will see a fraction of the websites source code, and a line will be
+pre-highlighted. Now there are many ways we can interact with the element. We could use the “id”, or
+the “class” name. To keep things simple i suggest you right click on the highlighted line and
+click “Copy Unique Selector”, this will copy what is called the “css selector”.We will use this to interact
+with the webpage in our code.
+
+I won’t go in too much depth with this but the reason i like to use “css selector” instead of id and
+class names is because sometimes id’s and class names force you to have to climb through the source code.
+Such as having to open “classname#1” then open “classname#2”. In situations like this the “copy css selector”
+will have already climbed down the source code for us. This is why i suggest to use css selector, it’s just easier.
+
+Next do the same for the password field, and the login button.
+
+The username field’s css selector is      #email
+
+The Password field’s css selector is       #pass
+
+The Login Button’s css selector is         #u_0_q
+
+Okay Now let’s hop into Pycharm and create a skeleton for our code!
+
+from selenium import webdriver  ##Imports the selenium web driver
+driver = webdriver.Firefox()    ##Create a Firefox Webdriver
+driver.get("https://www.facebook.com/")  ##Tells the driver to go to facebook.com
+Next we need to actually enter in our username and password, then click the login button.
+
+driver.find_element_by_css_selector("#email").send_keys("insert username here")
+driver.find_element_by_css_selector("#pass").send_keys("insert password here")
+driver.find_element_by_css_selector("#u_0_q").click()
+Now let’s pick this apart.
+
+driver.find_element_by_css_selector("#email") ##This finds the css selector #email
+.send_keys("insert username here") ##this will send the text to the found element
+.click()  ## Pretty self explanatory, this will click on the found element
+
+And that’s it ! A simple Facebook login!
+
+from selenium import webdriver  ##Imports the selenium web driver
+driver = webdriver.Firefox()    ##Create a Firefox Webdriver
+driver.get("https://www.facebook.com/")  ##Tells the driver to go to facebook.com
+driver.find_element_by_css_selector("#email").send_keys("insert username here")
+driver.find_element_by_css_selector("#pass").send_keys("insert password here")
+driver.find_element_by_css_selector("#u_0_q").click()
+If you happen to have any troubles try using time.sleep() between each line such as below.
+This is because sometimes selenium may move too fast for the browser to keep up.
+
+from selenium import webdriver ##Imports the selenium web driver
+driver = webdriver.Firefox() ##Create a Firefox Webdriver
+driver.get("https://www.facebook.com/") ##Tells the driver to go to facebook.com
+import time
+time.sleep(1) ##waits for 1 second
+driver.find_element_by_css_selector("#email").send_keys("insert username here")
+time.sleep(1)
+driver.find_element_by_css_selector("#pass").send_keys("insert password here")
+time.sleep(1)
+driver.find_element_by_css_selector("#u_0_q").click()
+"""
+https://www.packtpub.com/packt/offers/free-learning/#
