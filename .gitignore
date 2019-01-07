@@ -2,3 +2,5 @@ mover.py
 partial_scraper.py
 scraper.py
 *.pyc
+.DS_Store
+.idea/
