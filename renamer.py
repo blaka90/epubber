@@ -16,7 +16,7 @@ elif "linux" in os_sys:
 	downloads = "/home/" + user + "/Downloads/"
 	epub_dir = "/home/" + user + "/Documents/python/epubber/temp"
 else:
-	print "Sorry something went wrong when changing directorys"
+	print("Sorry something went wrong when changing directorys")
 	sleep(2)
 	exit(10)
 
@@ -32,24 +32,25 @@ def get_epub_info(fname):
 
 	# prepare to read from the .epub file
 	try:
-		zip = zipfile.ZipFile(fname)
+		zzip = zipfile.ZipFile(fname)
 
 		# find the contents meta file
-		txt = zip.read('META-INF/container.xml')
+		txt = zzip.read('META-INF/container.xml')
 		tree = etree.fromstring(txt)
 		cfname = tree.xpath('n:rootfiles/n:rootfile/@full-path', namespaces=ns)[0]
 
 		# grab the metadata block from the contents meta file
-		cf = zip.read(cfname)
+		cf = zzip.read(cfname)
 		tree = etree.fromstring(cf)
 		p = tree.xpath('/pkg:package/pkg:metadata', namespaces=ns)[0]
 		title = p.xpath('dc:title/text()', namespaces=ns)[0]
 
 		return title
 	except Exception as e:
-		print "-" * 15 + "\n" + str(e) + ":"
-		print fname
+		print("-" * 15 + "\n" + str(e) + ":")
+		print(fname)
 		exit(7)
+
 
 '''
 def get_dir():
@@ -73,10 +74,10 @@ def renamer():
 				ext = "_code.zip"
 				ext2 = ".pdf"
 				zip_title = f_title[:-5] + ".zip"
-				pdf_title = f_title[:-5] + ".pdf"
+				pdf_title = f_title[:-5] + ext2
 				if n.lower() == f_name + ext:
 					os.rename(n, zip_title)
-				if n.endswith(".pdf") and n.startswith(f_name):
+				if n.endswith(ext2) and n.startswith(f_name):
 					os.rename(n, pdf_title)
 			sleep(0.25)
 		else:

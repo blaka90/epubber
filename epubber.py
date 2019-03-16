@@ -14,7 +14,7 @@ from scraper import *
 def main():
     # login()
     renamer()
-    print "Success!"
+    print("Success!")
 
 
 if __name__ == "__main__":
