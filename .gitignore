@@ -4,3 +4,4 @@ scraper.py
 *.pyc
 .DS_Store
 .idea/
+scraper.txt
